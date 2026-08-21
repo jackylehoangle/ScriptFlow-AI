@@ -1,0 +1,8 @@
+{
+  "name": "ScriptFlow AI",
+  "description": "Ứng dụng viết kịch bản chuyên nghiệp tích hợp AI giúp sáng tạo cốt truyện, nhân vật và hội thoại.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
